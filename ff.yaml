@@ -7,8 +7,8 @@ progressive-flag:
       initial:
         variation: A_var
         percentage: 0
-        date: 2021-03-20T00:00:00.10-05:00
+        date: 2024-06-14T00:00:00.10-05:00
       end:
         variation: B_var
         percentage: 100
-        date: 2021-03-21T00:00:00.10-05:00
+        date: 2024-06-21T00:00:00.10-05:00
